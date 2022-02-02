@@ -1,6 +1,7 @@
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=for-the-badge)
-![NPM Downloads](https://img.shields.io/npm/dw/templatelyjs?style=for-the-badge)
-![NPM Bundle Size](https://img.shields.io/bundlephobia/min/templatelyjs?style=for-the-badge)
+![MIT License](https://img.shields.io/apm/l/mit?style=for-the-badge)
+![NPM Downloads](https://img.shields.io/npm/dw/@vthechamp/templately?style=for-the-badge)
+![NPM Bundle Size](https://img.shields.io/bundlephobia/min/@vthechamp/templately?style=for-the-badge)
+![NPM version](https://img.shields.io/npm/v/@vthechamp/templately?style=for-the-badge)
 
 # TemplatelyJS
 
