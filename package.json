@@ -1,0 +1,29 @@
+{
+  "name": "@vthechamp/templately",
+  "version": "1.0.0",
+  "description": "A tiny package to enable custom (reusable) components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vthechamp22/templately-js.git"
+  },
+  "keywords": [
+    "custom",
+    "component",
+    "template",
+    "html",
+    "vanilla",
+    "js",
+    "javascript",
+    "html"
+  ],
+  "author": "Vivaan Parashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vthechamp22/templately-js/issues"
+  },
+  "homepage": "https://github.com/Vthechamp22/templately-js#readme"
+}
