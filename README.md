@@ -5,7 +5,7 @@
 
 # TemplatelyJS
 
-This is an extremely small and lightweight package to enable the usage of custom templates in static HTML websites.
+This is an extremely small and lightweight package to enable the usage of custom templatesg in static HTML websites.
 
 ## Usage/Examples
 
@@ -17,6 +17,8 @@ This is an extremely small and lightweight package to enable the usage of custom
     ...
     <!-- Include the TemplatelyJS package -->
     <script src="/templately.js"></script>
+    <!-- Or use the jsDelivr CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/@vthechamp/templately"></script>
 </head>
 <body>
     <!-- Use a custom template -->
